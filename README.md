@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In order to fetch the data from Youtube, you have ot use its API porvided by Google.
+
+Follow the steps to create one  -
+1) Goto https://developers.google.com/youtube/v3
+2) Click on API Explorer in Other Resources
+3) Search for YoutubeV3 API and create your project.
+4) Copy the API from Get credentials and paste it in your app.js [API_KEY].
+ 
+ Thats it!!
+
+
 ## Available Scripts
 
 In the project directory, you can run:
